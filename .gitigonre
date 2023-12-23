@@ -1,4 +1,5 @@
-venv
-
 ### IntelliJ IDEA ###
 .idea/
+
+venv
+
